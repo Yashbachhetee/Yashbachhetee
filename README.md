@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **bachheteeyashu001@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/HP/Downloads/QA.pdf](file:///C:/Users/HP/Downloads/QA.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@askyashbachhete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@askyashbachhete" height="30" width="40" /></a>
