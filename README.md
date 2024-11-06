@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Bachhetee</h1>
 <h3 align="center">An experienced Quality Assurance tester with a keen eye for identifying software issues and ensuring top-notch product quality.</h3>
 
-- 🔭 I’m currently working on **Myforexeye app**
+-  I’m currently working on **Myforexeye app**
 
-- 🌱 I’m currently learning **Automation and React**
+-  I’m currently learning **Automation and React**
 
-- 📫 How to reach me **bachheteeyashu001@gmail.com**
+-  How to reach me **bachheteeyashu001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
