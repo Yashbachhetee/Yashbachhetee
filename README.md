@@ -7,4 +7,4 @@ An experienced Quality Assurance tester with a keen eye for identifying software
 
 And having good knowledge of web development.
 
-Thanks for stoping by :)
+Thanks for stopping by :)
